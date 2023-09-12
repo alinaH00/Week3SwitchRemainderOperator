@@ -1,0 +1,14 @@
+C:\Users\alina\source\repos\Week3Switch\Week3Switch\bin\Debug\net6.0\Week3Switch.exe
+C:\Users\alina\source\repos\Week3Switch\Week3Switch\bin\Debug\net6.0\Week3Switch.deps.json
+C:\Users\alina\source\repos\Week3Switch\Week3Switch\bin\Debug\net6.0\Week3Switch.runtimeconfig.json
+C:\Users\alina\source\repos\Week3Switch\Week3Switch\bin\Debug\net6.0\Week3Switch.dll
+C:\Users\alina\source\repos\Week3Switch\Week3Switch\bin\Debug\net6.0\Week3Switch.pdb
+C:\Users\alina\source\repos\Week3Switch\Week3Switch\obj\Debug\net6.0\Week3Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alina\source\repos\Week3Switch\Week3Switch\obj\Debug\net6.0\Week3Switch.AssemblyInfoInputs.cache
+C:\Users\alina\source\repos\Week3Switch\Week3Switch\obj\Debug\net6.0\Week3Switch.AssemblyInfo.cs
+C:\Users\alina\source\repos\Week3Switch\Week3Switch\obj\Debug\net6.0\Week3Switch.csproj.CoreCompileInputs.cache
+C:\Users\alina\source\repos\Week3Switch\Week3Switch\obj\Debug\net6.0\Week3Switch.dll
+C:\Users\alina\source\repos\Week3Switch\Week3Switch\obj\Debug\net6.0\refint\Week3Switch.dll
+C:\Users\alina\source\repos\Week3Switch\Week3Switch\obj\Debug\net6.0\Week3Switch.pdb
+C:\Users\alina\source\repos\Week3Switch\Week3Switch\obj\Debug\net6.0\Week3Switch.genruntimeconfig.cache
+C:\Users\alina\source\repos\Week3Switch\Week3Switch\obj\Debug\net6.0\ref\Week3Switch.dll
